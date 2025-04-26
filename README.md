@@ -10,7 +10,7 @@ It includes an Entity-Relationship Diagram (ERD), SQL schema creation and sample
 - GitHub for version control
 
 ## 🗂️ Project Structure
-- **ERD.png**: Entity-Relationship Diagram
+- **E-commerce_ERD.png**: Entity-Relationship Diagram
 - **ecommerce.sql**: SQL script containing table definitions, inserts, triggers, procedures, and queries
 
 ## 🧱 Key Features
@@ -21,7 +21,7 @@ It includes an Entity-Relationship Diagram (ERD), SQL schema creation and sample
 
 ## 👥 Team Members
 - Valerie Mbaka
-- Daniel Ohanchor
+- Daniel Ohachor
 
 ## 🚀 How to Run
 1. Clone the repository:
