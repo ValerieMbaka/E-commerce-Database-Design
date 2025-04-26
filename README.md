@@ -15,9 +15,7 @@ It includes an Entity-Relationship Diagram (ERD), SQL schema creation and sample
 
 ## 🧱 Key Features
 - Organized e-commerce data model (products, brands, colors, sizes, attributes)
-- Auto-update stock quantities via trigger after an order
-- Stored procedure for quick product creation
-- Advanced queries like Top-Selling Products
+- Sample data for testing and demonstration
 
 ## 👥 Team Members
 - Valerie Mbaka
