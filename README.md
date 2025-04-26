@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Database Design 
+# 🛍️ E-commerce Database Design
 
 ## 📚 Project Overview
 This project presents the design and implementation of a robust e-commerce database system.  
