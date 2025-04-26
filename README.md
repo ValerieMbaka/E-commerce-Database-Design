@@ -11,7 +11,7 @@ It includes an Entity-Relationship Diagram (ERD), SQL schema creation and sample
 
 ## 🗂️ Project Structure
 - **E-commerce_ERD.png**: Entity-Relationship Diagram
-- **ecommerce.sql**: SQL script containing table definitions, inserts, triggers, procedures, and queries
+- **ecommerce.sql**: SQL script containing table definitions, sample data inserts and sample queries
 
 ## 🧱 Key Features
 - Organized e-commerce data model (products, brands, colors, sizes, attributes)

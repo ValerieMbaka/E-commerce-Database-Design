@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02179a25-8b81-4f00-900d-a5605369b721" name="Changes" comment="" />
+    <list default="true" id="02179a25-8b81-4f00-900d-a5605369b721" name="Changes" comment="Updated README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ValerieMbaka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ValerieMbaka/E-commerce-Database-Design.git",
+    "accountId": "ab60bb61-c83f-4aeb-a502-a42505a6fc14"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -29,6 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/Power Learn Project/Database/Assignments/Peer Group Assignment - E-commerce Database",
     "node.js.detected.package.eslint": "true",
@@ -91,11 +107,32 @@
       <option name="presentableId" value="Default" />
       <updated>1745672246751</updated>
       <workItem from="1745672252244" duration="94000" />
-      <workItem from="1745672414106" duration="5669000" />
+      <workItem from="1745672414106" duration="6132000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1745678677305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745678677305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1745678709952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745678709952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
   </component>
 </project>
