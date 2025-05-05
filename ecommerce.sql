@@ -1,3 +1,9 @@
+-- Create an e-commerce database schema
+CREATE DATABASE IF NOT EXISTS ecommerceDb;
+
+-- Use the e-commerce database
+USE ecommerceDb;
+
 -- Create tables for the e-commerce database
 CREATE TABLE brand (
     brand_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -148,6 +154,25 @@ INSERT INTO product_item (product_variation_id, stock_keeping_unit, stock_quanti
 
 
 -- Sample queries
+-- Find all products with their images
+SELECT
+    p.name AS product_name,
+    pi.image_url,
+    p.base_price
+FROM product p
+JOIN product_image pi ON p.product_id = pi.product_id;
+
+-- Find all products with their attributes
+SELECT
+    p.name AS product_name,
+    ac.name AS attribute_category,
+    at.name AS attribute_type,
+    pa.attribute_value
+FROM product p
+JOIN product_attribute pa ON p.product_id = pa.product_id
+JOIN attribute_category ac ON pa.attribute_category_id = ac.attribute_category_id
+JOIN attribute_type at ON pa.attribute_type_id = at.attribute_type_id;
+
 -- Find all red shoes in stock
 SELECT
     p.name AS product_name,
